@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AbouDev Network</string>
+    <string name="dashboard">Tableau de bord</string>
+    <string name="devices">Appareils</string>
+    <string name="alerts">Alertes</string>
+    <string name="settings">Paramètres</string>
+    <string name="scan">Scanner</string>
+    <string name="scanning">Scan en cours...</string>
+    <string name="connected_devices">Appareils connectés</string>
+    <string name="unknown_device">Appareil inconnu</string>
+    <string name="new_device_alert">Nouvel appareil détecté</string>
+    <string name="network_speed">Vitesse réseau</string>
+    <string name="upload">Envoi</string>
+    <string name="download">Réception</string>
+    <string name="block_device">Bloquer</string>
+    <string name="trust_device">Faire confiance</string>
+</resources>

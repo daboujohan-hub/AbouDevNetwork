@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#00B4FF</color>
+    <color name="accent_green">#00FF88</color>
+    <color name="accent_orange">#FF8C00</color>
+    <color name="accent_red">#FF3C3C</color>
+    <color name="bg_card">#1A1A2E</color>
+    <color name="bg_primary">#0A0A0F</color>
+    <color name="bg_surface">#16213E</color>
+    <color name="divider">#2A2A3E</color>
+    <color name="text_accent">#00FF88</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#7B8090</color>
+    <string name="alerts">Alertes</string>
+    <string name="app_name">AbouDev Network</string>
+    <string name="block_device">Bloquer</string>
+    <string name="connected_devices">Appareils connectés</string>
+    <string name="dashboard">Tableau de bord</string>
+    <string name="devices">Appareils</string>
+    <string name="download">Réception</string>
+    <string name="network_speed">Vitesse réseau</string>
+    <string name="new_device_alert">Nouvel appareil détecté</string>
+    <string name="scan">Scanner</string>
+    <string name="scanning">Scan en cours...</string>
+    <string name="settings">Paramètres</string>
+    <string name="trust_device">Faire confiance</string>
+    <string name="unknown_device">Appareil inconnu</string>
+    <string name="upload">Envoi</string>
+    <style name="Theme.AbouDevNetwork" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_green</item>
+        <item name="colorPrimaryVariant">@color/bg_card</item>
+        <item name="colorOnPrimary">@color/bg_primary</item>
+        <item name="colorSurface">@color/bg_card</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="android:windowBackground">@color/bg_primary</item>
+        <item name="android:statusBarColor">@color/bg_primary</item>
+        <item name="android:navigationBarColor">@color/bg_primary</item>
+    </style>
+</resources>
